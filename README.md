@@ -2,11 +2,11 @@
 
 Unity 2023 - editor version 2023.1.0b11
 
-Basic recreation of Tetris, with garbage system. Implemented AI is trained with a genetic learning algorithm that optimizes scoring algorithms to determine the optimal move-set.
+Basic recreation of Tetris with garbage system. Implemented AI is trained with a genetic learning algorithm that optimizes scoring algorithms to determine the optimal move-set.
 
 ## AI
 
-The AI works off 8 individual scoring algorithms, each with a corresponding weight. The scores are:
+The AI works off 8 individual scoring algorithms, each with a corresponding weight. The algorithms are:
 1. Low Board
 2. Air Pockets
 3. Lines Cleared
