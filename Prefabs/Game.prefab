@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4942499406629974861
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2769494279454573117}
+  - component: {fileID: 4600931900473274358}
+  - component: {fileID: 1881181476185156722}
+  m_Layer: 0
+  m_Name: Game
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2769494279454573117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4942499406629974861}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4600931900473274358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4942499406629974861}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc8b5a65c2ba7d42b4ccdc4606942f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  garbageRecipient: {fileID: 0}
+  boardSizeX: 10
+  boardSizeY: 20
+  boardSeed: -1
+  boardFile: {fileID: 0}
+  gravity: 3
+  gravityDelta: 2
+  solidificationTime: 0.5
+  ended: 0
+  ghostOpacity: 0.4
+  solidifyTetrominoes: 1
+  cameraGameObject: {fileID: 0}
+  tiles:
+  - {fileID: 11400000, guid: 69f2ed638945b864c86d1ec21c76da58, type: 2}
+  - {fileID: 11400000, guid: 1d1191c0396f65a438da52e345484fe7, type: 2}
+  - {fileID: 11400000, guid: 6d7a277cab56ea843874af2cfbbaf82f, type: 2}
+  - {fileID: 11400000, guid: a780e6b68c8445643928e695542057e2, type: 2}
+  - {fileID: 11400000, guid: e5184509ff96fda4282cd78510aa7931, type: 2}
+  - {fileID: 11400000, guid: 14302c35653ef8c43976a01f50fc0c5c, type: 2}
+  - {fileID: 11400000, guid: 1bb3f01051cbd444da5a48c5c5d24f7d, type: 2}
+  - {fileID: 11400000, guid: 8581c3ff3488bf545a3186d1f20bb3b8, type: 2}
+  - {fileID: 11400000, guid: 056b987eb00f48645a9fc34943f3edde, type: 2}
+  - {fileID: 11400000, guid: 829fbfee3f2900b43994b4271ce208d6, type: 2}
+  mainTilemap: {fileID: 0}
+  ghostTilemap: {fileID: 0}
+  uiTilemap: {fileID: 0}
+  garbageQueue: 
+--- !u!114 &1881181476185156722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4942499406629974861}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de21bc8ea31ba1c4593ae63a24782af5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputForgivenessTime: 0.15
+  softDropSpeed: 15
+  leftRightSpeed: 25
+  thinkTime: 0.2
+  hardDropAIMoves: 1
+  lowBoardImportance: 1
+  noAirPocketsImportance: 10
+  linesClearedImportance: 10
+  elevationDesparityMinimizationImportance: 1
+  minimizeWellsImportance: 10
+  tetrisImportance: 1000
+  rightWellImportance: 10
+  noBlocksAboveAirImportance: 2
