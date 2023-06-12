@@ -1,0 +1,1310 @@
+Generation 1, Score Reached: 612
+Low Board Importance: 1.908662
+No Air Pockets Importance: 8.672534
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 861.545
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 2, Score Reached: 791
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 8.086209
+No Blocks Above Air Importance: 1.543821
+=========================
+Generation 3, Score Reached: 587
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 4, Score Reached: 647
+Low Board Importance: 1.534417
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 5, Score Reached: 643
+Low Board Importance: 1.150464
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 0.948278
+Minimize Wells Importance: 10
+Tetris Importance: 972.6025
+Right Well Importance: 9.430839
+No Blocks Above Air Importance: 2
+=========================
+Generation 6, Score Reached: 534
+Low Board Importance: 1
+No Air Pockets Importance: 8.702749
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 0.9996602
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 7, Score Reached: 405
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.014401
+=========================
+Generation 8, Score Reached: 729
+Low Board Importance: 1.232273
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 9, Score Reached: 468
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 19.29679
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 995.4376
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 10, Score Reached: 470
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 11, Score Reached: 461
+Low Board Importance: 1.310972
+No Air Pockets Importance: 10.7399
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 644.4335
+Right Well Importance: 10
+No Blocks Above Air Importance: 3.299022
+=========================
+Generation 12, Score Reached: 456
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.513082
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 17.99963
+No Blocks Above Air Importance: 2
+=========================
+Generation 13, Score Reached: 550
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10.04936
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 14, Score Reached: 755
+Low Board Importance: 1
+No Air Pockets Importance: 12.92765
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.003783
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.213036
+=========================
+Generation 15, Score Reached: 460
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 16, Score Reached: 426
+Low Board Importance: 1.534417
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 17, Score Reached: 604
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.497198
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 18, Score Reached: 651
+Low Board Importance: 1.084241
+No Air Pockets Importance: 11.02113
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 19, Score Reached: 540
+Low Board Importance: 1.022603
+No Air Pockets Importance: 9.658875
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.02356
+Minimize Wells Importance: 10
+Tetris Importance: 1057.991
+Right Well Importance: 9.842953
+No Blocks Above Air Importance: 2
+=========================
+Generation 20, Score Reached: 543
+Low Board Importance: 1
+No Air Pockets Importance: 8.217249
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.235867
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 21, Score Reached: 593
+Low Board Importance: 0.977951
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 22, Score Reached: 676
+Low Board Importance: 0.8176926
+No Air Pockets Importance: 10
+Lines Cleared Importance: 25.18675
+Elevation Desparity Importance: 1.227234
+Minimize Wells Importance: 10.51578
+Tetris Importance: 980.3969
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 23, Score Reached: 508
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.30114
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 8.148589
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 24, Score Reached: 579
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1102.314
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 25, Score Reached: 568
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 12.47699
+No Blocks Above Air Importance: 2
+=========================
+Generation 26, Score Reached: 443
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 8.086209
+No Blocks Above Air Importance: 1.543821
+=========================
+Generation 27, Score Reached: 789
+Low Board Importance: 1.908662
+No Air Pockets Importance: 8.672534
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 861.545
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 28, Score Reached: 473
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 29, Score Reached: 487
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.32877
+Elevation Desparity Importance: 1.072032
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 30, Score Reached: 520
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 31, Score Reached: 637
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 32, Score Reached: 667
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1102.314
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 33, Score Reached: 607
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 34, Score Reached: 560
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 35, Score Reached: 629
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 36, Score Reached: 684
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1215.332
+Right Well Importance: 9.514628
+No Blocks Above Air Importance: 2
+=========================
+Generation 37, Score Reached: 597
+Low Board Importance: 1.232273
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 38, Score Reached: 608
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 0.8888062
+Minimize Wells Importance: 9.270411
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 39, Score Reached: 531
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 27.64315
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 40, Score Reached: 507
+Low Board Importance: 1.534417
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 41, Score Reached: 555
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 19.29679
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 995.4376
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 42, Score Reached: 620
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 21.6746
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 43, Score Reached: 663
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1102.314
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 44, Score Reached: 549
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 45, Score Reached: 528
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 46, Score Reached: 574
+Low Board Importance: 1.310972
+No Air Pockets Importance: 10.7399
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 644.4335
+Right Well Importance: 10
+No Blocks Above Air Importance: 3.299022
+=========================
+Generation 47, Score Reached: 630
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 48, Score Reached: 660
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 49, Score Reached: 549
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 50, Score Reached: 914
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.497198
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 51, Score Reached: 645
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1292.083
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 52, Score Reached: 583
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 11.20415
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 53, Score Reached: 537
+Low Board Importance: 1.153302
+No Air Pockets Importance: 10
+Lines Cleared Importance: 16.68592
+Elevation Desparity Importance: 1.542975
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 13.54852
+No Blocks Above Air Importance: 2
+=========================
+Generation 54, Score Reached: 641
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.513082
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 17.99963
+No Blocks Above Air Importance: 2
+=========================
+Generation 55, Score Reached: 532
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 11.4248
+Tetris Importance: 1237.109
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 56, Score Reached: 739
+Low Board Importance: 0.89033
+No Air Pockets Importance: 10
+Lines Cleared Importance: 25.54094
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1008.941
+Right Well Importance: 10
+No Blocks Above Air Importance: 1.675147
+=========================
+Generation 57, Score Reached: 543
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.204521
+Minimize Wells Importance: 9.216284
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 58, Score Reached: 576
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1030.333
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 59, Score Reached: 626
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 60, Score Reached: 551
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1102.314
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 61, Score Reached: 720
+Low Board Importance: 1.232273
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 62, Score Reached: 491
+Low Board Importance: 1
+No Air Pockets Importance: 8.702749
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 0.9996602
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 63, Score Reached: 427
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.113613
+=========================
+Generation 64, Score Reached: 491
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 65, Score Reached: 674
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 66, Score Reached: 570
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.31321
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1114.107
+Right Well Importance: 11.3648
+No Blocks Above Air Importance: 2.026389
+=========================
+Generation 67, Score Reached: 459
+Low Board Importance: 1.033976
+No Air Pockets Importance: 10
+Lines Cleared Importance: 15.02766
+Elevation Desparity Importance: 1.534978
+Minimize Wells Importance: 8.994013
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 68, Score Reached: 512
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10.04936
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 69, Score Reached: 717
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 70, Score Reached: 513
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1030.333
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 71, Score Reached: 551
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 72, Score Reached: 605
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 73, Score Reached: 695
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.385164
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 74, Score Reached: 478
+Low Board Importance: 1
+No Air Pockets Importance: 8.217249
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.235867
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 75, Score Reached: 635
+Low Board Importance: 1
+No Air Pockets Importance: 8.702749
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 0.9996602
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 76, Score Reached: 565
+Low Board Importance: 0.8899531
+No Air Pockets Importance: 13.40482
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1204.495
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 77, Score Reached: 445
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 78, Score Reached: 511
+Low Board Importance: 1.084241
+No Air Pockets Importance: 11.02113
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 79, Score Reached: 686
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 80, Score Reached: 500
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.32877
+Elevation Desparity Importance: 1.072032
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 81, Score Reached: 454
+Low Board Importance: 0.8176926
+No Air Pockets Importance: 10
+Lines Cleared Importance: 25.18675
+Elevation Desparity Importance: 1.227234
+Minimize Wells Importance: 10.51578
+Tetris Importance: 980.3969
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 82, Score Reached: 502
+Low Board Importance: 0.89033
+No Air Pockets Importance: 10
+Lines Cleared Importance: 25.54094
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1008.941
+Right Well Importance: 10
+No Blocks Above Air Importance: 1.675147
+=========================
+Generation 83, Score Reached: 490
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 84, Score Reached: 531
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 19.29679
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 995.4376
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 85, Score Reached: 650
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 86, Score Reached: 511
+Low Board Importance: 1.534417
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 87, Score Reached: 594
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 88, Score Reached: 728
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 89, Score Reached: 495
+Low Board Importance: 1.033976
+No Air Pockets Importance: 10
+Lines Cleared Importance: 15.02766
+Elevation Desparity Importance: 1.534978
+Minimize Wells Importance: 8.994013
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 90, Score Reached: 676
+Low Board Importance: 1.098689
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 9.00928
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 91, Score Reached: 587
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 92, Score Reached: 453
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.31321
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1114.107
+Right Well Importance: 11.3648
+No Blocks Above Air Importance: 2.026389
+=========================
+Generation 93, Score Reached: 455
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 94, Score Reached: 607
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 95, Score Reached: 530
+Low Board Importance: 0.89033
+No Air Pockets Importance: 10
+Lines Cleared Importance: 25.54094
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1008.941
+Right Well Importance: 10
+No Blocks Above Air Importance: 1.675147
+=========================
+Generation 96, Score Reached: 521
+Low Board Importance: 1
+No Air Pockets Importance: 8.987269
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 9.495596
+No Blocks Above Air Importance: 2
+=========================
+Generation 97, Score Reached: 499
+Low Board Importance: 1
+No Air Pockets Importance: 12.92765
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.003783
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.213036
+=========================
+Generation 98, Score Reached: 582
+Low Board Importance: 1
+No Air Pockets Importance: 7.945151
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1379.584
+Right Well Importance: 10.34905
+No Blocks Above Air Importance: 2
+=========================
+Generation 99, Score Reached: 534
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 100, Score Reached: 496
+Low Board Importance: 1.192144
+No Air Pockets Importance: 9.971398
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 101, Score Reached: 567
+Low Board Importance: 1.232273
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 102, Score Reached: 516
+Low Board Importance: 1.084322
+No Air Pockets Importance: 12.70974
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 8.098364
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 103, Score Reached: 667
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 104, Score Reached: 539
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.113613
+=========================
+Generation 105, Score Reached: 590
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1215.332
+Right Well Importance: 9.514628
+No Blocks Above Air Importance: 2
+=========================
+Generation 106, Score Reached: 548
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.32877
+Elevation Desparity Importance: 1.072032
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 107, Score Reached: 521
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 12.11953
+Tetris Importance: 1093.417
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 108, Score Reached: 711
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.684142
+Minimize Wells Importance: 10
+Tetris Importance: 1256.818
+Right Well Importance: 6.991446
+No Blocks Above Air Importance: 2
+=========================
+Generation 109, Score Reached: 559
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 11.4248
+Tetris Importance: 1237.109
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 110, Score Reached: 688
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.385164
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 111, Score Reached: 607
+Low Board Importance: 1.098689
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 9.00928
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 112, Score Reached: 574
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 113, Score Reached: 688
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 12.47699
+No Blocks Above Air Importance: 2
+=========================
+Generation 114, Score Reached: 538
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1116.684
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 115, Score Reached: 710
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1102.314
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 116, Score Reached: 544
+Low Board Importance: 1
+No Air Pockets Importance: 12.92765
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.003783
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.213036
+=========================
+Generation 117, Score Reached: 558
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 8.086209
+No Blocks Above Air Importance: 1.543821
+=========================
+Generation 118, Score Reached: 539
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 119, Score Reached: 846
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1292.083
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 120, Score Reached: 635
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 121, Score Reached: 525
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.31321
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1114.107
+Right Well Importance: 11.3648
+No Blocks Above Air Importance: 2.026389
+=========================
+Generation 122, Score Reached: 588
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2.113613
+=========================
+Generation 123, Score Reached: 628
+Low Board Importance: 1.153302
+No Air Pockets Importance: 10
+Lines Cleared Importance: 16.68592
+Elevation Desparity Importance: 1.542975
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 13.54852
+No Blocks Above Air Importance: 2
+=========================
+Generation 124, Score Reached: 573
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 125, Score Reached: 634
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 11.4248
+Tetris Importance: 1237.109
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 126, Score Reached: 603
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 18.74751
+Elevation Desparity Importance: 1.11007
+Minimize Wells Importance: 10
+Tetris Importance: 857.9388
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 127, Score Reached: 703
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1.282486
+Minimize Wells Importance: 10.79521
+Tetris Importance: 1000
+Right Well Importance: 9.867841
+No Blocks Above Air Importance: 2
+=========================
+Generation 128, Score Reached: 577
+Low Board Importance: 1.098689
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 9.00928
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 129, Score Reached: 488
+Low Board Importance: 1.232273
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 130, Score Reached: 544
+Low Board Importance: 1
+No Air Pockets Importance: 10
+Lines Cleared Importance: 20
+Elevation Desparity Importance: 1
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 10
+No Blocks Above Air Importance: 2
+=========================
+Generation 131, Score Reached: 619
+Low Board Importance: 1.153302
+No Air Pockets Importance: 10
+Lines Cleared Importance: 16.68592
+Elevation Desparity Importance: 1.542975
+Minimize Wells Importance: 10
+Tetris Importance: 1000
+Right Well Importance: 13.54852
+No Blocks Above Air Importance: 2
+=========================
